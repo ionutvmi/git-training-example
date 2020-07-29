@@ -7,5 +7,10 @@ public class HomepageController {
 
     public void sayHello() {
         System.out.println("Hello");
+        System.out.println("Hello");
+        System.out.println("HELLO");
+        System.out.println("Hello");
+        System.out.println("Hello");
+        System.out.println("Hello");
     }
 }

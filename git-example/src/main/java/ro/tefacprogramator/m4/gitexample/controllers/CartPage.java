@@ -4,4 +4,8 @@ public class CartPage {
     public static void main(String[] args) {
         System.err.println();
     }
+
+    public static void main2(String[] args) {
+        System.err.println();
+    }
 }

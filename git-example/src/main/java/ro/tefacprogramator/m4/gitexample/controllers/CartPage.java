@@ -2,7 +2,7 @@ package ro.tefacprogramator.m4.gitexample.controllers;
 
 public class CartPage {
 
-    public void myMethodCart1() {
+    public void myMethodAdvancedCart1() {
         System.out.println("Asdsadsadsa");
     }
 
